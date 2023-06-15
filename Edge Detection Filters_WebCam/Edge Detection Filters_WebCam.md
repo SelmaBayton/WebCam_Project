@@ -1,6 +1,3 @@
-Certainly! Here's the code explained in `readme.md` format:
-
-```markdown
 # Image Filtering Web Application
 
 This Python code implements a web application that captures a frame from the webcam, applies different image filters using convolution, and displays the filtered images in a grid layout.
@@ -78,6 +75,4 @@ This Python code implements a web application that captures a frame from the web
 main__"`.
 2. Start the `Microdot` application by calling `app.run()` with the appropriate options.
 
-```
 
-Please note that the `readme.md` file is a markdown file format commonly used for documentation.
