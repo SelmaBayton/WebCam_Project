@@ -1,7 +1,7 @@
 # WebCam_Project
 <img src="https://cdn.mos.cms.futurecdn.net/GHXErTuqfEXXqkAG2u4zhU-970-80.jpg.webp" width="400px">
 
-The Python code utilizes a web camera to perform various detection tasks, namely edge detection, motion detection, and random detection. 
+The Python codes utilize a web camera to perform various detection tasks, namely edge detection, motion detection, and random detection. 
 
 The edge detector algorithm analyzes the video stream from the web camera, identifying and highlighting the edges or boundaries of objects within the captured frames. This enables the code to distinguish between different objects or regions based on changes in pixel intensity, providing valuable information for object recognition and scene understanding.
 
